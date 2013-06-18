@@ -10,7 +10,7 @@
 	<groupId>de.eonas.portal.demo</groupId>
 	<artifactId>content</artifactId>
 	<packaging>jar</packaging>
-	<version>0.1</version>
+	<version>0.2-SNAPSHOT</version>
 
 	<name>CMS - OpenCms Content</name>
 	<description>OpenCms Content</description>
