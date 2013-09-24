@@ -21,8 +21,6 @@
 		<dateinstalled/>
 		<dependencies>
 			<dependency name="de.eonas.portaldemo.templates" version="0"/>
-			<dependency name="com.alkacon.opencms.v8.template3" version="0"/>
-			<dependency name="com.alkacon.opencms.v8.template3" version="0"/>
             <dependency name="com.alkacon.opencms.v8.event" version="0"/>
             <dependency name="com.alkacon.opencms.v8.flexible" version="0"/>
             <dependency name="com.alkacon.opencms.v8.flower" version="0"/>
